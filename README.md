@@ -1,4 +1,4 @@
 # Acceptance
 
 ## Geetanjali - Accepted
-## Rozina - Rejected
+## Rozina - Accepted
